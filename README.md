@@ -319,7 +319,7 @@ No API key required for the free tier.
 
 ## 📄 License
 
-This project is part of an educational MCP server implementation.
+This project is part of an Educational MCP server implementation. 
 
 ## 🔗 Related Links
 
