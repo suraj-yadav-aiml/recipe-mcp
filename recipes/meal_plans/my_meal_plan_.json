@@ -1,0 +1,25 @@
+{
+  "plan_name": "My Meal Plan ",
+  "created_date": "2025-09-28T12:29:21.122797",
+  "total_recipes": 3,
+  "recipes": [
+    {
+      "id": "53014",
+      "name": "Pizza Express Margherita",
+      "cuisine": "Italian",
+      "category": "Miscellaneous"
+    },
+    {
+      "id": "52806",
+      "name": "Tandoori chicken",
+      "cuisine": "Indian",
+      "category": "Chicken"
+    },
+    {
+      "id": "52956",
+      "name": "Chicken Congee",
+      "cuisine": "Chinese",
+      "category": "Chicken"
+    }
+  ]
+}

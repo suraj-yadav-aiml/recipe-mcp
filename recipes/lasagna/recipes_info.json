@@ -1,0 +1,115 @@
+{
+  "52775": {
+    "name": "Vegan Lasagna",
+    "cuisine": "Italian",
+    "category": "Vegan",
+    "instructions": "1) Preheat oven to 180 degrees celcius. \r\n2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes. \r\n3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside. \r\n4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.\r\n5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish. \r\n6) Bake in the preheated oven for about 25 minutes.",
+    "image_url": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=VU8cXvlGbvc",
+    "source_url": null,
+    "ingredients": [
+      {
+        "ingredient": "green red lentils",
+        "measure": "1 cups"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "1"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "zucchini",
+        "measure": "1 small"
+      },
+      {
+        "ingredient": "coriander",
+        "measure": "sprinking"
+      },
+      {
+        "ingredient": "spinach",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "lasagne sheets",
+        "measure": "10"
+      },
+      {
+        "ingredient": "vegan butter",
+        "measure": "35g"
+      },
+      {
+        "ingredient": "flour",
+        "measure": "4 tablespoons"
+      },
+      {
+        "ingredient": "soya milk",
+        "measure": "300ml"
+      },
+      {
+        "ingredient": "mustard",
+        "measure": "1.5 teaspoons"
+      },
+      {
+        "ingredient": "vinegar",
+        "measure": "1 teaspoon"
+      }
+    ],
+    "tags": [
+      "Vegan",
+      "Pasta"
+    ]
+  },
+  "52987": {
+    "name": "Lasagna Sandwiches",
+    "cuisine": "American",
+    "category": "Pasta",
+    "instructions": "1. In a small bowl, combine the first four ingredients; spread on four slices of bread. Layer with bacon, tomato and cheese; top with remaining bread.\r\n\r\n2. In a large skillet or griddle, melt 2 tablespoons butter. Toast sandwiches until lightly browned on both sides and cheese is melted, adding butter if necessary.\r\n\r\nNutrition Facts\r\n1 sandwich: 445 calories, 24g fat (12g saturated fat), 66mg cholesterol, 1094mg sodium, 35g carbohydrate (3g sugars, 2g fiber), 21g protein.",
+    "image_url": "https://www.themealdb.com/images/media/meals/xr0n4r1576788363.jpg",
+    "youtube_url": "",
+    "source_url": "",
+    "ingredients": [
+      {
+        "ingredient": "Sour Cream",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "Chopped Onion",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Dried Oregano",
+        "measure": "1/2 tbs"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Bread",
+        "measure": "8 slices"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "8 slices"
+      },
+      {
+        "ingredient": "Tomato",
+        "measure": "8 slices"
+      },
+      {
+        "ingredient": "Mozzarella",
+        "measure": "4 slices"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "2 1/2 Tbs"
+      }
+    ],
+    "tags": [
+      "Sandwich"
+    ]
+  }
+}

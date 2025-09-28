@@ -1,0 +1,37 @@
+{
+  "plan_name": "Complete 5-Day Salad Meal Plan for 3 People",
+  "created_date": "2025-09-28T14:09:03.745853",
+  "total_recipes": 5,
+  "recipes": [
+    {
+      "id": "52960",
+      "name": "Salmon Avocado Salad",
+      "cuisine": "British",
+      "category": "Seafood"
+    },
+    {
+      "id": "52777",
+      "name": "Mediterranean Pasta Salad",
+      "cuisine": "Italian",
+      "category": "Seafood"
+    },
+    {
+      "id": "53011",
+      "name": "Chicken Quinoa Greek Salad",
+      "cuisine": "Greek",
+      "category": "Chicken"
+    },
+    {
+      "id": "52797",
+      "name": "Spicy North African Potato Salad",
+      "cuisine": "Moroccan",
+      "category": "Vegetarian"
+    },
+    {
+      "id": "53081",
+      "name": "Potato Salad (Olivier Salad)",
+      "cuisine": "Russian",
+      "category": "Vegetarian"
+    }
+  ]
+}

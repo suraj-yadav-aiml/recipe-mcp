@@ -1,0 +1,28 @@
+{
+  "letter": "P",
+  "found_recipes": 10,
+  "recipe_ids": [
+    "52774",
+    "52780",
+    "52804",
+    "52837",
+    "52847",
+    "52854",
+    "52857",
+    "52861",
+    "52862",
+    "52902"
+  ],
+  "recipe_names": [
+    "Pad See Ew",
+    "Potato Gratin with Chicken",
+    "Poutine",
+    "Pilchard puttanesca",
+    "Pork Cassoulet",
+    "Pancakes",
+    "Pumpkin Pie",
+    "Peanut Butter Cheesecake",
+    "Peach & Blueberry Grunt",
+    "Parkin Cake"
+  ]
+}

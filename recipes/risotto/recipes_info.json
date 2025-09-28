@@ -1,0 +1,60 @@
+{
+  "52823": {
+    "name": "Salmon Prawn Risotto",
+    "cuisine": "Italian",
+    "category": "Seafood",
+    "instructions": "Melt the butter in a thick-based pan and gently cook the onion without colour until it is soft.\r\nAdd the rice and stir to coat all the grains in the butter\r\nAdd the wine and cook gently stirring until it is absorbed\r\nGradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender\r\nSeason with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through\r\nServe scattered with the Parmesan and seasonal vegetables.\r\nGrill the salmon and gently place onto the risotto with the prawns and asparagus",
+    "image_url": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=V2PMvBv52IE",
+    "source_url": "http://www.rangemaster.co.uk/rangemaster-owners/recipes-ideas-inspiration/recipes/mains/prawn-and-hot-smoked-salmon-risotto-with-asparagus",
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "measure": "50g/2oz"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1 finely chopped"
+      },
+      {
+        "ingredient": "rice",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "white wine",
+        "measure": "125ml"
+      },
+      {
+        "ingredient": "vegetable stock",
+        "measure": "1 litre hot"
+      },
+      {
+        "ingredient": "lemon",
+        "measure": "The juice and zest of one"
+      },
+      {
+        "ingredient": "King Prawns",
+        "measure": "240g large"
+      },
+      {
+        "ingredient": "salmon",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "asparagus",
+        "measure": "100g tips blanched briefly in boiling water"
+      },
+      {
+        "ingredient": "black pepper",
+        "measure": "ground"
+      },
+      {
+        "ingredient": "Parmesan",
+        "measure": "50g shavings"
+      }
+    ],
+    "tags": [
+      "Fish"
+    ]
+  }
+}

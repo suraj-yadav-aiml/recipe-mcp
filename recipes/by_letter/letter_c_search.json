@@ -1,0 +1,28 @@
+{
+  "letter": "C",
+  "found_recipes": 10,
+  "recipe_ids": [
+    "52765",
+    "52776",
+    "52779",
+    "52788",
+    "52795",
+    "52796",
+    "52818",
+    "52819",
+    "52830",
+    "52831"
+  ],
+  "recipe_names": [
+    "Chicken Enchilada Casserole",
+    "Chocolate Gateau",
+    "Cream Cheese Tart",
+    "Christmas Pudding Flapjack",
+    "Chicken Handi",
+    "Chicken Alfredo Primavera",
+    "Chicken Fajita Mac and Cheese",
+    "Cajun spiced fish tacos",
+    "Crock Pot Chicken Baked Tacos",
+    "Chicken Karaage"
+  ]
+}

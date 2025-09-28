@@ -1,0 +1,28 @@
+{
+  "letter": "B",
+  "found_recipes": 10,
+  "recipe_ids": [
+    "52767",
+    "52792",
+    "52803",
+    "52807",
+    "52812",
+    "52824",
+    "52826",
+    "52834",
+    "52842",
+    "52848"
+  ],
+  "recipe_names": [
+    "Bakewell tart",
+    "Bread and Butter Pudding",
+    "Beef Wellington",
+    "Baingan Bharta",
+    "Beef Brisket Pot Roast",
+    "Beef Sunday Roast",
+    "Braised Beef Chilli",
+    "Beef stroganoff",
+    "Broccoli & Stilton soup",
+    "Bean & Sausage Hotpot"
+  ]
+}
