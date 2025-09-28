@@ -96,7 +96,22 @@ if __name__ == "__main__":
 
 ### MCP Client Configuration
 
-Add to your MCP client configuration:
+#### Option 1: Remote MCP Server (Recommended)
+
+**Add to Claude Desktop as Custom Connector:**
+
+1. Open Claude Desktop and go to **Settings**
+2. Navigate to **Connectors** section
+3. Click **Add Custom Connector**
+4. Configure with the following details:
+   - **Name**: `Recipe Research MCP`
+   - **URL**: `https://recipe-mcp.onrender.com/mcp`
+
+This connects to our hosted Recipe MCP server without any local setup required.
+
+#### Option 2: Local MCP Server
+
+Add to your MCP client configuration file:
 
 ```json
 {
@@ -119,21 +134,21 @@ Add to your MCP client configuration:
   }
 }
 ```
-Or
 
-```josn
+Or for Windows:
+
+```json
 {
   "recipe_research": {
-      "command": "C:\\Users\\Admin\\.local\\bin\\uv.EXE",
-      "args": [
-        "--directory",
-        ""path/to/project"",
-        "run",
-        ""path/to/project"/recipe_server.py"
+    "command": "C:\\Users\\Admin\\.local\\bin\\uv.EXE",
+    "args": [
+      "--directory",
+      "path/to/project",
+      "run",
+      "path/to/project/recipe_server.py"
     ]
   }
 }
-
 ```
 
 ## 🔧 API Reference
